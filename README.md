@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Falak Sheikh</h1>
-<h3 align="center">Software Engineering Student | Sales & Digital Marketing Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Sales & Digital Marketing Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;B2B+Sales+%7C+E-Commerce+%7C+Digital+Marketing;UI%2FUX+%7C+Web+Development+%7C+Data+Analytics;Always+learning%2C+always+building+🚀" alt="Typing SVG" />

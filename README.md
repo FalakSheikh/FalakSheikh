@@ -131,5 +131,5 @@
   </a>
 </p>
 
-<p align="center"><i>Open to opportunities in software engineering, sales, and digital marketing 🚀</i></p>
+<p align="center"><i>Open to opportunities in software engineering, full-stack developer, sales, and digital marketing 🚀</i></p>
 
